@@ -2236,3 +2236,8 @@ don Quijote había contado.
 Cesó esta plática y comenzóse otra, preguntando el que se llamaba Vivaldo a
 don Quijote qué era la ocasión que le movía a andar armado de aquella
 manera por tierra tan pacífica. A lo cual respondió don Quijote:
+— La profesión de mi ejercicio no consiente ni permite que yo ande de otra
+manera. El buen paso, el regalo y el reposo, allá se inventó para los
+blandos cortesanos; mas el trabajo, la inquietud y las armas sólo se
+inventaron e hicieron para aquellos que el mundo llama caballeros andantes,
+de los cuales yo, aunque indigno, soy el menor de todos.
