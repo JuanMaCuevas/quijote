@@ -14743,3 +14743,11 @@ Soneto
 DEL CACHIDIABLO, ACADÉMICO DE LA ARGAMASILLA,
 EN LA SEPULTURA DE DON QUIJOTE
 Epitafio
+Aquí yace el caballero,
+bien molido y mal andante,
+a quien llevó Rocinante
+por uno y otro sendero.
+Sancho Panza el majadero
+yace también junto a él,
+escudero el más fïel
+que vio el trato de escudero.
