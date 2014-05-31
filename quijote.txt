@@ -15146,3 +15146,8 @@ dos.
 después, que no son de condición que dejarán de escucharlo.
 En tanto, don Quijote se encerró con Sancho en su aposento; y, estando
 solos, le dijo:
+— Mucho me pesa, Sancho, que hayas dicho y digas que yo fui el que te saqué
+de tus casillas, sabiendo que yo no me quedé en mis casas: juntos salimos,
+juntos fuimos y juntos peregrinamos; una misma fortuna y una misma suerte
+ha corrido por los dos: si a ti te mantearon una vez, a mí me han molido
+ciento, y esto es lo que te llevo de ventaja.
