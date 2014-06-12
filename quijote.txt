@@ -16055,3 +16055,8 @@ Dijo Sancho a su amo:
 — Señor, ya yo tengo relucida a mi mujer a que me deje ir con vuestra merced
 adonde quisiere llevarme.
 — Reducida has de decir, Sancho —dijo don Quijote—, que no relucida.
+— Una o dos veces —respondió Sancho—, si mal no me acuerdo, he suplicado a
+vuestra merced que no me emiende los vocablos, si es que entiende lo que
+quiero decir en ellos, y que, cuando no los entienda, diga: ''Sancho, o
+diablo, no te entiendo''; y si yo no me declarare, entonces podrá
+emendarme; que yo soy tan fócil...
