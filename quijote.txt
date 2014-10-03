@@ -24770,3 +24770,6 @@ A lo que el médico respondió:
 — Ésas no comerá el señor gobernador en tanto que yo tuviere vida.
 — Pues, ¿por qué? —dijo Sancho.
 Y el médico respondió:
+— Porque nuestro maestro Hipócrates, norte y luz de la medicina, en un
+aforismo suyo, dice: Omnis saturatio mala, perdices autem pessima. Quiere
+decir: "Toda hartazga es mala; pero la de las perdices, malísima".
