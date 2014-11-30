@@ -28635,3 +28635,4 @@ estampa.
 — ¿Qué título tiene el libro? —preguntó don Quijote.
 — A lo que el autor respondió:
 — Señor, el libro, en toscano, se llama Le bagatele.
+— Y ¿qué responde le bagatele en nuestro castellano? —preguntó don Quijote.
