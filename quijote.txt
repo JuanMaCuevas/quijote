@@ -30320,3 +30320,6 @@ Y don Quijote le respondió:
 — A una aldea que está aquí cerca, de donde soy natural. Y vuestra merced,
 ¿dónde camina?
 — Yo, señor —respondió el caballero—, voy a Granada, que es mi patria.
+— ¡Y buena patria! —replicó don Quijote—. Pero, dígame vuestra merced, por
+cortesía, su nombre, porque me parece que me ha de importar saberlo más de
+lo que buenamente podré decir.
