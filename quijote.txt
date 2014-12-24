@@ -30317,3 +30317,5 @@ verano, y, saliéndose al portal del mesón, que era espacioso y fresco, por
 el cual se paseaba don Quijote, le preguntó:
 — ¿Adónde bueno camina vuestra merced, señor gentilhombre?
 Y don Quijote le respondió:
+— A una aldea que está aquí cerca, de donde soy natural. Y vuestra merced,
+¿dónde camina?
